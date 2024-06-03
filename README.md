@@ -2,3 +2,5 @@
 langchain quickstart
 
 # references
+
+[langchain-python-doc](https://python.langchain.com/v0.1/docs/get_started/introduction/)
